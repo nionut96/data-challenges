@@ -1,0 +1,5 @@
+#Ignore .idea Related Files
+.idea
+
+#Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints
