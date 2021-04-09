@@ -3,3 +3,6 @@
 
 #Ignore Jupyter Notebook Checkpoints
 .ipynb_checkpoints
+
+#Ignore Apple Mac OS Files
+.DS_Store
