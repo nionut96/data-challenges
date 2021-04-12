@@ -1,4 +1,4 @@
-# backend-challenges
+# data-challenges
 ## Challenges
 ### 1. Query Optimization
 A common challenge encountered when working with data related to financial entities is combining datasets that utilize different identifier schemes. For instance, a proprietary dataset from one provider might use a bespoke unique ID. While a publicly available dataset might use a standardized identifier like an ISIN (an alphanumeric ID). Being able to associate disparate datasets to individual financial entities using various identifiers like these in order to gain insight from them is a core function of our Data team.
